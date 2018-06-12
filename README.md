@@ -1,20 +1,20 @@
-# Portugues Translations for Admin-on-rest
+# Portuguese Translations for Admin-on-rest
 
-Portugues translations for [admin-on-rest](https://github.com/marmelab/admin-on-rest), the frontend framework for building admin applications on top of REST services.
+Portuguese translations for [react-admin](https://github.com/marmelab/react-admin), the frontend framework for building admin applications on top of REST services.
 
 ## Installation
 
 ```sh
-npm install --save aor-language-portugues
+yarn add ra-language-portuguese
 ```
 
 ## Usage
 
 ```js
-import portuguesMessages from 'aor-language-portugues';
+import portugueseMessages from 'ra-language-portuguese'
 
 const messages = {
-    'pt': portuguesMessages,
+    'pt': portugueseMessages,
 };
 
 <Admin locale="pt" messages={messages}>
@@ -22,6 +22,6 @@ const messages = {
 </Admin>
 ```
 
+This project was forked and adapted from original's [aor-language-portugues](https://github.com/movibe/aor-language-portugues) project
 ## License
-
 This translation is licensed under the [MIT Licence](LICENSE), and sponsored by [BlackBox Vision](https://github.com/BlackBoxVision).
