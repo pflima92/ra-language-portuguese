@@ -1,24 +1,24 @@
 {
-  "name": "aor-language-portugues",
-  "description": "Portugues translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
-  "version": "1.0.3",
+  "name": "ra-language-portuguese",
+  "description": "Portuguese translations for react-admin, the frontend framework for building admin applications on top of REST services",
+  "version": "1.1.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/movibe/aor-language-portugues.git"
+    "url": "git+https://github.com/marquesgabriel/ra-language-portuguese.git"
   },
   "keywords": [
     "react",
     "admin-on-rest",
     "translation"
   ],
-  "author": "Willian Ribeiro Angelo",
+  "author": "Gabriel Marques",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/movibe/aor-language-portugues/issues"
+    "url": "https://github.com/marquesgabriel/ra-language-portuguese/issues"
   },
-  "homepage": "https://github.com/movibe/aor-language-portugues#readme"
+  "homepage": "https://github.com/marquesgabriel/ra-language-portuguese#readme"
 }
