@@ -17,6 +17,7 @@ module.exports = {
       remove: 'Excluir',
       back: 'Voltar',
       bulk_actions: '%{smart_count} selecionados',
+      export: 'Exportar',
     },
     boolean: {
       true: 'Sim',
