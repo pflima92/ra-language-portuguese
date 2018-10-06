@@ -69,6 +69,7 @@ module.exports = {
       page_out_from_end: 'Não é possível ir após a última página',
       page_out_from_begin: 'Não é possível ir antes da primeira página',
       page_range_info: '%{offsetBegin}-%{offsetEnd} de %{total}',
+      page_rows_per_page: 'Resultados por página:',
       next: 'Próximo',
       prev: 'Anterior',
     },
