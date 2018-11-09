@@ -74,6 +74,7 @@ module.exports = {
       prev: 'Anterior',
     },
     auth: {
+      user_menu: 'Perfil',
       username: 'Usuário',
       password: 'Senha',
       sign_in: 'Entrar',
@@ -84,9 +85,10 @@ module.exports = {
       updated: 'Item atualizado com sucesso',
       created: 'Item criado com sucesso',
       deleted: 'Item removido com sucesso!',
+      bad_item: 'Item incorreto',
       item_doesnt_exist: 'Esse item não existe mais',
       http_error: 'Erro na comunicação com servidor',
-      bad_item: 'Item incorreto',
+      data_provider_error: 'Erro interno do servidor. Entre em contato',
       canceled: 'Ação cancelada',
     },
     validation: {
