@@ -16,8 +16,9 @@ import portugueseMessages from 'ra-language-portuguese'
 const messages = {
     'pt': portugueseMessages,
 };
+const i18nProvider = locale => messages[locale];
 
-<Admin locale="pt" messages={messages}>
+<Admin locale="pt" i18nProvider={i18nProvider}>
   ...
 </Admin>
 ```
