@@ -33,7 +33,7 @@ module.exports = {
       create: 'Novo %{name}',
       dashboard: 'Painel de Controle',
       edit: '%{name} #%{id}',
-      error: 'Something went wrong',
+      error: 'Um erro ocorreu',
       list: 'Listar %{name}',
       loading: 'Carregando',
       not_found: 'Não encontrado',
